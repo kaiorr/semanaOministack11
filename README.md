@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="bethehero" title="bethehero" src="./Wallpapers_OmniStack_11/Wallpaper OmniStack 11 - 2560x1080.jpg" width="300px" />
+  <img alt="bethehero" title="bethehero" src="./Wallpapers_OmniStack_11/Wallpaper OmniStack 11 - 2560x1080.jpg" width="800px" />
 </h1>
 
 <h3 align="center">
