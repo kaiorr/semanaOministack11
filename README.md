@@ -28,17 +28,17 @@ Será construído uma aplicação para unir cidadão com desejo de ajudar á ONG
 
 # Iniciando o Servidor Backend
 
-:constructionr:    :construction_worker:  :construction:
+:construction:    :construction_worker:  :construction:
 
 
 # :computer: Iniciando o Frontend
 
-:constructionr:    :construction_worker:  :construction:
+:construction:    :construction_worker:  :construction:
 
 
-# :mobile: Mobile
+# :iphone: Mobile
 
-:constructionr:    :construction_worker:  :construction:
+:construction:    :construction_worker:  :construction:
 
 
 
