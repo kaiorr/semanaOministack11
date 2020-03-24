@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="bethehero" title="bethehero" src="./img/head-repo-omini-11.jpg" width="400px" />
+  <img alt="bethehero" title="bethehero" src="./img/head-repo-omini-11.jpg" width="300px" />
 </h1>
 
 <h3 align="center">
