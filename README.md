@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="bethehero" title="bethehero" src="./img/ominiStack11.jpg"/>
+  <img alt="bethehero" title="bethehero" src="./img/login-page.png" />
 </h1>
 
 <h3 align="center">
