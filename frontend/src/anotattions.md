@@ -1,0 +1,1 @@
+## Todo Componente deve ser criado com a primeira letra em maiúsculo, senão não funciona.
