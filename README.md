@@ -31,21 +31,42 @@
 Será construído uma aplicação para unir cidadão com desejo de ajudar á ONG´s, o **Be the Hero** é uma forma de unir essas pesssoas para o bem, e será o produto final dessa semana omini stack 11.
 
 
-# Iniciando o Servidor Backend
+# :package: Iniciando o Servidor Backend
 
-:construction:    :construction_worker:  :construction:
+    git clone https://github.com/kaiorr/semanaOministack11.git
+
+    cd semanaOministack11
+
+    yarn
+
+    yarn knex migrate:make create_ongs
+
+    yarn knex migrate:make create_incidents
+
+    yarn knex migrate:latest
+
+    yarn dev
 
 
 # :computer: Iniciando o Frontend
 
-:construction:    :construction_worker:  :construction:
+    cd frontend
+
+    yarn
+
+    yarn start
 
 
 # :iphone: Mobile
 
-:construction:    :construction_worker:  :construction:
+    :white_check_mark: Expo
 
+    cd mobile
 
+    yarn
+
+    yarn start
+    
 
 ## :memo: Licença
 
@@ -53,6 +74,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ----
 
-
-
-Feito com :heart: por **Kaio Ribeiro** 
+Feito com :heart: por **Kaio Ribeiro** :call_me_hand: [network_professional](https://www.linkedin.com/in/kaio-ribeiro-310123150/)
