@@ -59,7 +59,7 @@ Será construído uma aplicação para unir cidadão com desejo de ajudar á ONG
 
 # :iphone: Mobile
 
-    :white_check_mark: Expo
+    Expo
 
     cd mobile
 
@@ -70,8 +70,8 @@ Será construído uma aplicação para unir cidadão com desejo de ajudar á ONG
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://raw.githubusercontent.com/kaiorr/semanaOministack11/master/LICENSE) para mais detalhes.
 
 ----
 
-Feito com :heart: por **Kaio Ribeiro** :call_me_hand: [network_professional](https://www.linkedin.com/in/kaio-ribeiro-310123150/)
+Feito com :heart: por **Kaio Ribeiro** :call_me_hand: [Professional-Network](https://www.linkedin.com/in/kaio-ribeiro-310123150/)
